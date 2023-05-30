@@ -21,6 +21,8 @@ To run on localhost use the following commands:
 - `npm run lint` - run a code check execution with eslint
 - `npm run lint:fix` - run a code check run with eslint with automatic fixes for simple errors
 
+Create .env file in root directory and add to it environments"PORT", "DB_HOST"
+
 ## Created with
 
 :white_check_mark: Node.js  
