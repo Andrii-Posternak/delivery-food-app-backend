@@ -2,7 +2,7 @@
 
 This rest API allows you to use your resources to organize online food delivery from popular fast foods.
 
-This REST API is used as a backend for [delivery-foods-app]() ([github](https://github.com/Andrii-Posternak/delivery-food-app))
+This REST API is used as a backend for [delivery-foods-app](delivery-food-app-go.netlify.app) ([github](https://github.com/Andrii-Posternak/delivery-food-app))
 
 ## Usage
 
